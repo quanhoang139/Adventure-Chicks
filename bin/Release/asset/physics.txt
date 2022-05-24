@@ -1,0 +1,300 @@
+Đâu là thông tin không đúng về chuyển động điều hoà của chất điểm?
+A. Biên độ dao động không đổi
+B. Động năng là đại lượng biến đổi 
+C. Giá trị vận tốc tỉ lệ thuận với li độ
+D. Giá trị lực kéo về tỉ lệ thuận với li độ
+C
+Khi một chất điểm dao động điều hoà thì đại lượng nào sau đây không đổi theo thời gian?
+A. Vận tốc
+B. Gia tốc
+C. Biên độ
+D. Ly độ
+C
+Con lắc đơn dao động điều hoà, khi tăng chiều dài của con lắc lên 4 lần thì tần số dao động của con lắc
+A. tăng lên 2 lần
+B. giảm đi 2 lần
+C. tăng lên 4 lần
+D. giảm đi 4 lần
+B
+Chu kì của một con lăc đơn ở điều kiện bình thường là 1s, nếu treo nó trong thang máy đang đi lên cao chậm dần đều thì chu kì của nó sẽ như thế nào?
+A. Giảm đi
+B. Tăng lên
+C. Không đổi
+D. Có thể xảy ra cả 3 khả năng trên
+B
+Hiện tượng cộng hưởng xảy ra khi nào?
+A. Tần số của lực cưỡng bức bằng tần số riêng của hệ
+B. Tần số dao động bằng tần số riêng của hệ
+C. Tần số của lực cưõng bức nhỏ hơn tần số riêng của hệ
+D. Tần số của lực cưỡng bức lớn hơn tần số riêng của hệ
+A
+Khi một sóng cơ học truyền từ không khí vào nước thì đại lượng nào sau đây không thay đổi:
+A. Vận tốc
+B. Tần số
+C. Bước sóng
+D. Năng lượng
+B
+Quá trình truyền sóng là:
+A. quá trình truyền pha dao động
+B. quá trình truyền năng lượng.
+C. quá trình truyền phần tử vật chất
+D. Cả A và B
+D
+Để tăng độ cao của âm thanh do một dây đàn phát ra ta phải làm gì?
+A. Kéo căng dây đàn hơn
+B. Làm trùng dây đàn hơn.
+C. Gảy đàn mạnh hơn
+D. Gảy đàn nhẹ hơn
+A
+Lượng năng lượng được sóng âm truyền trong một đơn vị thời gian qua một đơn vị diện tích đặt vuông góc với phương truyền âm gọi là gì?
+A. Cường độ âm
+B. Độ to của âm
+C. Mức cường độ âm
+D. Năng lượng âm
+A
+Khi hai nhạc sĩ cùng đánh một bản nhạc ở cùng một độ cao nhưng hai nhạc cụ khác nhau là đàn Piano và đàn Organ, ta phân biệt được trường hợp nào là đàn Piano và trường hợp nào là đàn Organ là do:
+A. Tần số và biên độ âm khác nhau
+B. Tần số và năng lượng âm khác nhau
+C. Biên độ và cường độ âm khác nhau
+D. Tần số và cường độ âm khác nhau
+A
+Cường độ hiệu dụng của dòng điện xoay chiều bằng cường độ của dòng điện không đổi, nếu cho hai dòng điện đó lần lượt đi qua cùng một điện trở trong những khoảng thời gian bằng nhau và đủ dài thì nhiệt lượng tỏa ra
+A. khác nhau
+B. bằng nhau
+C. chênh lệch lớn
+D. không so sánh được
+B
+Vẽ đồ thị biểu diễn sự phụ thuộc của dung kháng vào tần số của dòng điện xoay chiều qua tụ điện ta được đường biểu diễn là
+A. đường cong parabol
+B. đường thẳng qua gốc tọa độ
+C. đường cong hypebol
+D. đường thẳng song song với trục hoành
+C
+Vẽ đồ thị biểu diễn sự phụ thuộc của cảm kháng vào tần số của dòng điện xoay chiều qua cuộn dây ta được đường biểu diễn là
+A. đường parabol
+B. đường thẳng qua gốc tọa độ
+C. đường hypebol
+D. đường thẳng song song với trục hoành
+B
+Trên một đoạn mạch R, L, C mắc nối tiếp nếu cường độ dòng điện trễ pha so với điện áp giữa hai đầu đoạn mạch thì ta kêt luận được là
+A. đoạn mạch có điện trở và tụ điện
+B. đoạn mạch có cảm kháng lớn hơn dung kháng
+C. đoạn mạch chỉ có tụ điện
+D. đoạn mạch không thể có tụ điện
+B
+Dung kháng của một đoạn mạch RLC nối tiếp có giá trị nhỏ hơn cảm kháng. Ta làm thay đổi chỉ một trong các thông số của đoạn mạch bằng cách nêu sau đây. Cách nào có thể làm cho hiện tượng cộng hưởng điện xảy ra?
+A. Tăng điện dung của tụ điện
+B. Tăng hệ số tự cảm của cuộn dây
+C. Giảm điện trở của đoạn mạch
+D. Giảm tần số dòng điện
+D
+Mạch điện xoay chiều RLC mắc nối tiếp đang có tính cảm kháng, khi tăng tần số của dòng điện xoay chiều thì hệ số công suất của mạch
+A. không thay đổi
+B. tăng
+C. giảm
+D. bằng 1
+C
+Trong quá trình truyền tải điện năng, với cùng một công suất và một điện áp truyền đi, điện trở trên đường dây xác định, mạch có hệ số công suất càng lớn thì công suất hao phí
+A. càng lớn
+B. không đổi
+C. càng nhỏ
+D. bằng 0
+C
+Một tia sáng đi qua lăng kính ló ra chỉ có một màu duy nhất không phải màu trắng thì đó là
+A. ánh sáng đơn sắc
+B. ánh sáng đa sắc
+C. ánh sáng bị tán sắc
+D. lăng kính không có khả năng tán sắc
+A
+Hiện tượng nhiễu xạ và giao thoa ánh sáng chứng tỏ ánh sáng tính chất nào?
+A. Có tính chất hạt
+B. Là sóng dọc
+C. Có tính chất sóng
+D. Luôn truyền thẳng
+C
+Thực hiện giao thoa bởi ánh sáng trắng, trên màn quan sát được hình ảnh như thế nào?
+A. Vân trung tâm là vân sáng trắng, hai bên có những dải màu như cầu vồng
+B. Một dải màu biến thiên liên tục từ đỏ đến tím
+C. Các vạch màu khác nhau riêng biệt hiện trên một nên tối
+D. Không có các vân màu trên màn
+A
+Phát biểu nào sau đây sai? Sóng ánh sáng và sóng âm 
+A. có tần số không đổi khi lan truyền giữa các môi trường
+B. đều mang năng lượng vì cùng bản chất là sóng điện từ
+C. đều có thể gây ra các hiện tượng giao thoa, nhiễu xạ
+D. đều có tốc độ thay đổi khi truyền từ nước ra không khí
+B
+Trong thí nghiệm giao thoa với ánh sáng trắng của Y-âng, khoảng cách giữa vân sáng và vân tối liên tiếp bằng
+A. một khoảng vân	
+B. một nửa khoảng vân
+C. một phần tư khoảng vân
+D. hai lần khoảng vân
+B
+Tầng ôzôn là tấm “áo giáp” bảo vệ cho người và sinh vật trên mặt đất khỏi bị tác dụng hủy diệt của
+A. tia tử ngoại trong ánh sáng Mặt Trời
+B. tia đơn sắc màu đỏ trong ánh sáng Mặt Trời
+C. tia đơn sắc màu tím trong ánh sáng Mặt Trời
+D. tia hồng ngoại trong ánh sáng Mặt Trời
+A
+Có một số đồ vật trang trí trong phòng có thể tự phát sáng vào ban đêm mà không cần nguồn cung cấp năng lượng. Đồ vật này được làm bằng chất nào? 
+A. Huỳnh quang
+B. Lân quang
+C. Phản quang
+D. Quang dẫn
+B
+Người ta thường sử dụng một loại còi đặc biệt (tên tiếng Anh là “silent whistle”) để gọi chú chó của mình. Khi thổi, ta không hề nghe thấy tiếng còi phát ra, thế nhưng chú chó lại có thể định vị và chạy đến vị trí của người thổi. Sóng do loại còi này phát ra là gì? 
+A. Hạ âm
+B. Siêu âm
+C. Sóng điện từ
+D. Sóng gamma
+B
+Để thay đổi tần số của radio nhằm nghe được kênh mong muốn, người ta vặn nút vặn đến chỉ số dải tần cần thu. Việc làm này nhằm: 
+A. Thay đổi điện dung của C trong mạch chọn sóng LC của máy thu
+B. Thay đổi độ từ cảm của L trong mạch chọn sóng LC của máy thu
+C. Thay đổi hướng chọn sóng của anten trong máy thu
+D. Thay đổi tần số cao tần trong mạch LC của máy phát
+A
+Khi nghiêng đĩa CD dưới ánh sáng mặt trời, ta thấy trên đĩa xuất hiện nhiều màu như cầu vồng. Đây là kết quả của hiện tượng vật lý nào? 
+A. Giao thoa ánh sáng
+B. Tán sắc ánh sáng
+C. Khúc xạ ánh sáng
+D. Nhiễu xạ ánh sang
+A
+Trong các trường hợp sau, trường hợp nào sẽ cho quang phổ vạch hấp thụ
+A. Quang phổ do bóng đèn dây tóc phát ra
+B. Quang phổ do một khối sắt nung đỏ phát ra
+C. Quang phổ do một đèn khí hiđrô ở áp suất thấp phát ra
+D. Quang phổ của Mặt trời thu được trên Trái đất
+D
+Một số dòng kính thời trang trên thị trường, khi người đối diện nhìn vào mắt kính người đi đường thấy kính có màu sắc sặc sỡ. Đây là kết quả của hiện tượng gì?
+A. Nhiễu xạ ánh sáng
+B. Tán sắc ánh sáng
+C. Tán xạ ánh sáng
+D. Giao thoa ánh sáng
+D
+Khách hàng khi vào các trung tâm thương mại lớn. Khi đi gần tới cửa ra vào thì cửa tự động mở. Khi vào, ra khỏi cửa thì cửa lại tự động đóng lại. Thiết bị đóng mở cửa này hoạt động dựa trên hiên tượng Vật Lí nào?
+A. Giao thoa
+B. Tán sắc
+C. Quang điện
+D. Quang phát quang
+C
+Cầu vồng là một hiện tượng quang học tự nhiên thường xuất hiện ngay sau cơm mưa với hình ảnh là dải màu từ đỏ đến tím. Cầu vồng được tạo ra chủ yếu nhờ vào
+A. lưỡng tính sóng hạt của ánh sáng
+B. sự tán sắc ánh sáng trắng
+C. tán xạ ánh sáng mặt trời
+D. giao thoa giữa những tia sáng mặt trời
+B
+Nhiều Rocker kỳ cựu đã bị tổn hại thính giác cấp tính vì phải nghe âm thanh cực lớn trong nhiều năm. Các Rocker bây giờ đã phải mang nút bịt lỗ tai để bảo vệ thính giác của bản thân khi biểu diễn để tránh thương tổn do âm thanh gây nên. Tác dụng của nút bịt lỗ tai này là?
+A. Giảm âm sắc
+B. Giảm mức cường độ âm
+C. Giảm biên độ âm
+D. Chặn toàn bộ âm thanh đi vào trong tai
+B
+Mồi bẫy ngư lôi được coi là phương pháp hữu hiệu nhất để phòng tránh các đòn tấn công của ngư lôi. Vũ khó này phát ra tín hiệu giả khiến ngư lôi phán đoán và theo bám nhầm, dẫn ngư lôi di chuyển ra xa mục tiêu. Loại sóng mà mồi bẫy này phát ra để lừa ngư lôi là? 
+A. Sóng ánh sáng
+B. Sóng dọc
+C. Sóng ngang
+D. Sóng điện từ
+B
+Khi nước sông hồ trong, ta có thể nhìn thấy tận đáy và tưởng chừng như nó rất cạn. Nhưng kỳ thực là nó sâu hơn ta tưởng, đó cũng do sự nâng lên của đáy sông, hồ, góc nhìn càng lớn thì độ nâng lên càng cao. Nguyên nhân của hiện tượng này là do: 
+A. Giao thoa ánh sáng
+B. Tán sắc ánh sáng
+C. Tán xạ ánh sáng	
+D. Khúc xạ ánh sáng
+D
+Ngày nay, trong các phòng thí nghiệm vật lý, người ta hay dùng tia laze để thực nghiệm giao thoa khe Y-âng bởi vì tính chất nổi bật nào dưới đây của tia laze? 
+A. Độ định hướng cao
+B. Cường độ lớn
+C. Tính đơn sắc cao
+D. Tác dụng nhiệt
+C
+Tiến hành thí nghiệm: Nhúng một chiếc thìa bình thường vào một cuốc nước trong suốt. Quan sát ta thấy chiếc thìa gần như đã bị gãy khúc tại điểm giao của nó với mặt nước. Thí nghiệm trên nói về hiện tượng nào dưới đây?
+A. Giao thoa ánh sáng
+B. Khúc xạ ánh sáng
+C. Tán xạ ánh sáng	
+D. Tán sắc ánh sáng
+B
+Ngày 16 – 8 – 1815, dân cư ở thành phố Vecviê nước Bỉ nhìn lên trời thấy toàn cảnh chiến thành Walterloo giữa liên quân nước Anh - Phổ và quân của Napoléon xảy ra cách đó 105 km theo đường chim bay. Với kiến thức Vật Lí, hãy cho biến hiện tượng trên là kết quả của quá trình nào dưới đây?
+A. Giao thoa ánh sáng và tán sắc ánh sáng
+B. Khúc xạ ánh sáng và phản xạ toàn phần
+C. Tán xạ ánh sáng và tán sắc ánh sáng
+D. Ánh sáng làm bật các electron ra khỏi bề mặt kim loại
+B
+Cảm biến PIR dùng để phát hiện ra các cơ thể sống đi vào một vùng không gian xác định được ứng dụng nhiều trong các thiết bị hoạt động tự động. Bức xạ mà cảm biến PIR thu được là
+A. Tử ngoại
+B. Gamma
+C. Tia X
+D. Hồng ngoại
+D
+Nguyên tử hidro ở trạng thái cơ bản được kích thích lên trạng thái có bán kính quỹ đạo tăng lên 9 lần. Electron chuyển mức
+A. từ K lên L
+B. từ L lên O
+C. từ K lên M
+D. từ L nên N
+C
+Bút laze mà ta thường dùng để chỉ bảng thuộc loại laze nào?
+A. Khí
+B. Lỏng
+C. Rắn
+D. Bán dẫn
+D
+Mẫu nguyên tử Bohr khác mẫu nguyên tử Rutherphord ở điểm nào? 
+A. Mô hình nguyên tử có hạt nhân.
+B. Mô hình nguyên tử không có hạt nhân
+C. Biểu thức của lực hút giữa hạt nhân và êlectrôn
+D. Trạng thái có năng lượng ổn định
+D
+Các hạt cấu thành hạt nhân nguyên tử được liên kết với nhau bằng lực nào?
+A. Lực hút tĩnh điện
+B. Lực hấp dẫn
+C. Lực nguyên tử
+D. Lực khác bản chất lực tĩnh điện và lực hấp dẫn
+D
+Đồng vị là các nguyên tử mà hạt nhân có cùng số 
+A. prôtôn nhưng số nơtron khác nhau
+B. nơtrôn nhưng khác nhau số khối
+C. nơtrôn nhưng số prôtôn khác nhau
+D. nuclôn nhưng khác khối lượng
+A
+Các phản ứng hạt nhân không tuân theo định luật bảo toàn
+A. điện tích
+B. năng lượng toàn phần
+C. động lượng
+D. khối lượng
+D
+Phản ứng hạt nhân thực chất là
+A. mọi quá trình dẫn đến sự biến đổi hạt nhân
+B. sự tương tác giữa các nuclôn trong hạt nhân
+C. quá trình phát ra các tia phóng xạ của hạt nhân
+D. quá trình giảm dần độ phóng xạ của một lượng chất phóng xạ
+A
+Có thể tăng hằng số phân rã của đồng vị phóng xạ bằng cách nào? 
+A. Đặt nguồn phóng xạ vào trong từ trường mạnh
+B. Đặt nguồn phóng xạ đó vào trong điện trường mạnh
+C. Đốt nóng nguồn phóng xạ đó
+D. Hiện nay ta chưa có cách nào
+D
+Quá trình biến đổi phóng xạ của một chất phóng xạ
+A. phụ thuộc vào chất đó ở dạng đơn chất hay hợp chất
+B. phụ thuộc vào chất đó ở các thể rắn, lỏng hay khí
+C. phụ thuộc vào nhiệt độ cao hay thấp
+D. xảy ra như nhau ở mọi điều kiện
+D
+Thời kì hoạt động mạnh, có khi Mặt Trời phóng về phía Trái Đất một dòng hạt tích điện gây ra hiện tượng bão từ trên Trái Đất. Khi đó, các kim của la bàn định hướng hỗn loạn và sự truyền sóng vô tuyến bị ảnh hưởng rất mạnh. Sở dĩ bão từ ảnh hưởng đến sự truyền sóng vô tuyến vì nó làm thay đổi
+A. điện trường trên mặt đất
+B. từ trường trên mặt đất
+C. khả năng phản xạ sóng điện từ trên mặt đất
+D. khả năng phản xạ sóng điện từ trên tầng điện li
+D
+Cửa ra vào sử dụng trong các phòng chụp X-quang, phòng chụp nha… đều phải được bọc một kim loại nặng nhằm hạn chế tối đa các mối nguy hại từ tia phóng xạ ảnh hưởng đến sức khỏe con người cũng như để bảo vệ môi trường xung quanh. Hãy cho biết kim loại thường dùng để bọc loại cửa trên là gì?
+A. Chì
+B. Nhôm
+C. Sắt từ
+D. Cadimi
+A
+Giảm xóc trong ô tô, xe máy là ứng dụng của dao động nào? 
+A. Dao động tắt dần
+B. Dao động tự do
+C. Dao động duy trì
+D. Dao động cưỡng bức
+A
