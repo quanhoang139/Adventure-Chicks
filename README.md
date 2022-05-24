@@ -21,7 +21,7 @@ Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng.
  
 ### 3. Các chức năng:
 > Video minh họa: 
-> [Adventure Chicks](https://youtu.be/N96GYdyeZ54)
+> [Adventure Chicks](https://youtu.be/jizBajwnTh8)
 - Chọn độ khó: Độ khó khác nhau thì số lượng bom trên bản đồ và thời gian trả lời câu hỏi sẽ khác nhau.
 - Đặt cờ (`Set Flag`): Dựa vào con số hiển thị trên đầu gà (số lượng bom xung quanh) để tính toán các ô có bom. Việc đặt cờ sẽ giúp đánh dấu lại những ô có bom để không cho gà con đi đến ô đó nữa.
 - Hủy cờ (`Remove Flag`): Với những ô đang có cờ, nếu muốn bỏ cờ để gà con có thể đi vào ô đó thì dùng nút này.
