@@ -31,12 +31,13 @@ Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng.
 - Chức năng tắt nhạc: Khi nhấn vào sẽ dừng phát nhạc nền
 - Chức năng tắt hiệu ứng âm thanh: Khi nhấn vào sẽ tắt các âm thanh nhấn nút, click, tiếng bom nổ, ...
 - Xem thông tin trò chơi: Khi nhấn nút này sẽ mở file `README.md` trên `github`.
+- Chọn môn học: Hiện tại mới phát triển 3 môn lịch sử, vật lý, địa lý và tổng hợp của 3 môn này. Sẽ cố gắng mở rộng trong thời gian tới.
  
 ### 4. Các kĩ thuật sử dụng:
 - Thư viện đồ họa `SDL2`: Sử dụng hiển thị ảnh, chữ, phát âm thanh. Do game chỉ xử dụng sự kiện chuột nên cũng khá khó khăn xong việc xử lý xử kiện theo đúng logic game, tránh thừa hay rớt phím.
 - Mảng 2 chiều: dùng để lưu trữ trạng thái hiển thị của các ô bom, cỏ, cờ trên vùng chứa các ô di chuyển của gà.
 - `Fps`: Đặt `fps` cố định là 25 khung hình trên giây để cho gà con di chuyển một cách ổn định, dễ nhìn.
-- Đọc, in dữ liệu ra file: dùng để lưu trữ dữ liệu thành tích, tránh bị mất mỗi lần chạy game.
+- Đọc, in dữ liệu ra file: dùng để lưu trữ dữ liệu thành tích, tránh bị mất mỗi lần chạy game và lưu trữ, lấy các câu hỏi.
 - Random để lấy ma trận bom cũng như chọn câu hỏi.
 - Cấu trúc, lớp: Xây dựng một số cấu trúc để lưu tọa độ (`x` và `y`), cấu trúc câu hỏi (bao gồm câu hỏi, các đáp án, đáp án đúng, lựa chọn của người chơi).
 - `Vector`: Dùng lưu trữ các cấu trúc câu hỏi, có thể tăng giảm số lượng câu hỏi trong file text tùy ý. Trong 1 lần chơi, khi dùng xong câu nào hỏi đó thì xóa khỏi vector. Sang lần khác sẽ khôi phục lại vector ban đầu.
@@ -49,7 +50,7 @@ Sau khi hoàn thành dự án game cuối kì này, em học được rất nhi�
  
 **- Điều tâm đắc:**
  
-Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn trong Chương trình giáo dục phổ thông mới đã làm dấy lên nhiều tranh cãi. Trong tác phẩm nổi tiếng “Lịch sử nước ta”, Bác Hồ đã từng viết "Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam". Bởi vậy trong game em đã dùng toàn bộ câu hỏi lịch sử, không phải những câu hỏi lịch sử khô khan để thi cử mà là những câu hỏi về dân tộc, về những vị anh hùng, danh nhân của nước ta. Với mong muốn vừa chơi vừa học, am hiểu hơn nữa về những truyền thuốc quý báu của dân tộc Việt Nam. "Học sinh chỉ chán học Lịch sử trên trường chứ không học sinh nào chán lịch sử dân tộc cả!".
+Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn trong Chương trình giáo dục phổ thông mới đã làm dấy lên nhiều tranh cãi. Trong tác phẩm nổi tiếng “Lịch sử nước ta”, Bác Hồ đã từng viết "Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam". Bởi vậy trong game em đã dùng toàn bộ câu hỏi lịch sử, không phải những câu hỏi lịch sử khô khan để thi cử mà là những câu hỏi về dân tộc, về những vị anh hùng, danh nhân của nước ta. Với mong muốn vừa chơi vừa học, am hiểu hơn nữa về những truyền thuốc quý báu của dân tộc Việt Nam. "Học sinh chỉ chán học Lịch sử trên trường chứ không học sinh nào chán lịch sử dân tộc cả!". Tuy nhiên do nhu câu phát triển game nên đã mở rộng thêm môn địa lý và vật lý.
  
 **- Các hướng phát triển trong tương lai:**
  
