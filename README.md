@@ -12,7 +12,7 @@ Project này mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zin
 - [5. Kết luận](https://github.com/quanhoang139/Adventure-Chicks/blob/main/README.md#5-k%E1%BA%BFt-lu%E1%BA%ADn)
 ### 1. Hướng dẫn cài đặt:
  
-- Bước 1: Cài đặt `SDL2` vào `CodeBlocks` theo như [Hướng dẫn](https://www.youtube.com/watch?v=kxi0TMXEG3g)
+- Bước 1: Cài đặt `SDL2` vào `CodeBlocks` theo như [Hướng dẫn](https://youtu.be/N96GYdyeZ54)
 - Bước 2: Tải project game về và mở file `Adventure_Chicks.cpb` bằng `CodeBlocks`
 - Bước 3: Do trong project đã có sẵn file `.dll` nên chỉ cần run và chơi game thôi
  
