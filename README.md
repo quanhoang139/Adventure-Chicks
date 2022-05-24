@@ -12,7 +12,7 @@ Project này mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zin
 - [5. Kết luận](https://github.com/quanhoang139/Adventure-Chicks/blob/main/README.md#5-k%E1%BA%BFt-lu%E1%BA%ADn)
 ### 1. Hướng dẫn cài đặt:
  
-- Bước 1: Cài đặt `SDL2` vào `CodeBlocks` theo như [Hướng dẫn](https://youtu.be/N96GYdyeZ54)
+- Bước 1: Cài đặt `SDL2` vào `CodeBlocks` theo như [Hướng dẫn](https://www.youtube.com/watch?v=kxi0TMXEG3g)
 - Bước 2: Tải project game về và mở file `Adventure_Chicks.cpb` bằng `CodeBlocks`
 - Bước 3: Do trong project đã có sẵn file `.dll` nên chỉ cần run và chơi game thôi
  
@@ -21,7 +21,7 @@ Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng.
  
 ### 3. Các chức năng:
 > Video minh họa: 
-> [Adventure Chicks](https://youtu.be/bOgsM3poW4U)
+> [Adventure Chicks](https://youtu.be/N96GYdyeZ54)
 - Chọn độ khó: Độ khó khác nhau thì số lượng bom trên bản đồ và thời gian trả lời câu hỏi sẽ khác nhau.
 - Đặt cờ (`Set Flag`): Dựa vào con số hiển thị trên đầu gà (số lượng bom xung quanh) để tính toán các ô có bom. Việc đặt cờ sẽ giúp đánh dấu lại những ô có bom để không cho gà con đi đến ô đó nữa.
 - Hủy cờ (`Remove Flag`): Với những ô đang có cờ, nếu muốn bỏ cờ để gà con có thể đi vào ô đó thì dùng nút này.
