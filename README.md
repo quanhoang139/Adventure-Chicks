@@ -20,7 +20,7 @@ Project này mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zin
 Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. Chọn các ô để gà con di chuyển đến, khi đến nơi lớp cỏ sẽ được mở ra. Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. Trả lời đúng sẽ được an toàn, trả lời sai hoặc hết thời gian trả lười sẽ bị trừ 1 mạng. Trò chơi kết thúc khi bạn bị trừ hết 2 mạng hoặc chiến thắng khi mở hết tất cả các ô không có bom. Mục tiêu là mở được nhiều ô cỏ không có bom nhất có thể.
  
 ### 3. Các chức năng:
-{@youtube: https://www.youtube.com/watch?v=HndN6P9ke6U}
+{@youtube: https://www.youtube.com/watch?v=jizBajwnTh8}
 > Video minh họa: 
 > [***`Adventure Chicks`***](https://youtu.be/jizBajwnTh8)
 - Chọn độ khó: Độ khó khác nhau thì số lượng bom trên bản đồ và thời gian trả lời câu hỏi sẽ khác nhau.
